@@ -4,7 +4,7 @@
 
 The goal is not to outsmart the standard library or imitate functional languages for their own sake. The goal is to provide a small, well-tested set of helpers that show up constantly in real software work: manipulating slices, grouping and filtering data, editing text by range, and performing the kinds of find/replace and cursor-aware operations that are usually reimplemented ad hoc in every project.
 
-At the end of the day, we're all processing excessive signals and text which require fast, consistent, reliable parsing, processing, and manipulation. 
+At the end of the day, we're all processing excessive signals and text which require fast, consistent, reliable parsing, processing, and manipulation. This is an attempt to aggregate and commonditize things I've have to type many times over across many projects when doing text and data structure processing. Not because they are hard but because I am lazy.
 
 This project exists for three reasons:
 
